@@ -1,2 +1,1 @@
-let a = 'Hello W';
-let b = 'orld!';
+console.log(1e6);
